@@ -21,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/m-hesam-norouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-hesam-norouzi" height="30" width="40" /></a>
 <a href="https://dev.to/hesam_norouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hesam_norouzi" height="30" width="40" /></a>
 <a href="https://kaggle.com/mhesamnorouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mhesamnorouzi" height="30" width="40" /></a>
 <a href="https://instagram.com/m.h3sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.h3sam" height="30" width="40" /></a>
